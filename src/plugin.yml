@@ -1,0 +1,10 @@
+name: tde
+main: timberman.tde.tde
+authors: ['Timberman']
+version: 0.1 pre Alpha
+description: Timberman.de server extension
+commands:
+  tde:
+    description: Main Command
+    usage: /<command>
+    aliases: t
